@@ -1,0 +1,12 @@
+{
+  "name": "digital-clock",
+  "version": "1.0.0",
+  "description": "Calliope mini digital clock",
+  "main": "digital-clock.js",
+  "author": "fivdi",
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "^5.0.0"
+  }
+}
+
